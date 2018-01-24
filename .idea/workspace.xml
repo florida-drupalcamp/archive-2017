@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="442df296-de1f-4bcf-b75d-701feeec9e72" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/community/after-party.html" afterPath="$PROJECT_DIR$/community/after-party.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/community/attendees.html" afterPath="$PROJECT_DIR$/community/attendees.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/community/code-conduct.html" afterPath="$PROJECT_DIR$/community/code-conduct.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/community/theres-so-much-see-and-do.html" afterPath="$PROJECT_DIR$/community/theres-so-much-see-and-do.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/code-sprints.html" afterPath="$PROJECT_DIR$/conference/code-sprints.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/contact.html" afterPath="$PROJECT_DIR$/conference/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/florida-technical-college.html" afterPath="$PROJECT_DIR$/conference/florida-technical-college.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conference/speaker-info.html" afterPath="$PROJECT_DIR$/conference/speaker-info.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/events/drupalcamp/florida-drupalcamp-2017.html" afterPath="$PROJECT_DIR$/events/drupalcamp/florida-drupalcamp-2017.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.html" afterPath="$PROJECT_DIR$/faq.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lodging.html" afterPath="$PROJECT_DIR$/lodging.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/101.html" afterPath="$PROJECT_DIR$/node/101.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/106.html" afterPath="$PROJECT_DIR$/node/106.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/11.html" afterPath="$PROJECT_DIR$/node/11.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/116.html" afterPath="$PROJECT_DIR$/node/116.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/126.html" afterPath="$PROJECT_DIR$/node/126.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/136.html" afterPath="$PROJECT_DIR$/node/136.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/146.html" afterPath="$PROJECT_DIR$/node/146.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/151.html" afterPath="$PROJECT_DIR$/node/151.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/3211.html" afterPath="$PROJECT_DIR$/node/3211.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/326.html" afterPath="$PROJECT_DIR$/node/326.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/336.html" afterPath="$PROJECT_DIR$/node/336.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/3826.html" afterPath="$PROJECT_DIR$/node/3826.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5586.html" afterPath="$PROJECT_DIR$/node/5586.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5626.html" afterPath="$PROJECT_DIR$/node/5626.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5631.html" afterPath="$PROJECT_DIR$/node/5631.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5636.html" afterPath="$PROJECT_DIR$/node/5636.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5641.html" afterPath="$PROJECT_DIR$/node/5641.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5721.html" afterPath="$PROJECT_DIR$/node/5721.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5771.html" afterPath="$PROJECT_DIR$/node/5771.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5781.html" afterPath="$PROJECT_DIR$/node/5781.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5801.html" afterPath="$PROJECT_DIR$/node/5801.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5806.html" afterPath="$PROJECT_DIR$/node/5806.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5846.html" afterPath="$PROJECT_DIR$/node/5846.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5851.html" afterPath="$PROJECT_DIR$/node/5851.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5856.html" afterPath="$PROJECT_DIR$/node/5856.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5861.html" afterPath="$PROJECT_DIR$/node/5861.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5866.html" afterPath="$PROJECT_DIR$/node/5866.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5871.html" afterPath="$PROJECT_DIR$/node/5871.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5881.html" afterPath="$PROJECT_DIR$/node/5881.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/5891.html" afterPath="$PROJECT_DIR$/node/5891.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/611.html" afterPath="$PROJECT_DIR$/node/611.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6181.html" afterPath="$PROJECT_DIR$/node/6181.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6191.html" afterPath="$PROJECT_DIR$/node/6191.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6256.html" afterPath="$PROJECT_DIR$/node/6256.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6266.html" afterPath="$PROJECT_DIR$/node/6266.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6271.html" afterPath="$PROJECT_DIR$/node/6271.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6391.html" afterPath="$PROJECT_DIR$/node/6391.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6421.html" afterPath="$PROJECT_DIR$/node/6421.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6436.html" afterPath="$PROJECT_DIR$/node/6436.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6456.html" afterPath="$PROJECT_DIR$/node/6456.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6461.html" afterPath="$PROJECT_DIR$/node/6461.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6491.html" afterPath="$PROJECT_DIR$/node/6491.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6551.html" afterPath="$PROJECT_DIR$/node/6551.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6566.html" afterPath="$PROJECT_DIR$/node/6566.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6596.html" afterPath="$PROJECT_DIR$/node/6596.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6601.html" afterPath="$PROJECT_DIR$/node/6601.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6611.html" afterPath="$PROJECT_DIR$/node/6611.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6651.html" afterPath="$PROJECT_DIR$/node/6651.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6676.html" afterPath="$PROJECT_DIR$/node/6676.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6711.html" afterPath="$PROJECT_DIR$/node/6711.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6716.html" afterPath="$PROJECT_DIR$/node/6716.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6736.html" afterPath="$PROJECT_DIR$/node/6736.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6871.html" afterPath="$PROJECT_DIR$/node/6871.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6881.html" afterPath="$PROJECT_DIR$/node/6881.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6914.html" afterPath="$PROJECT_DIR$/node/6914.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6916.html" afterPath="$PROJECT_DIR$/node/6916.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6917.html" afterPath="$PROJECT_DIR$/node/6917.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/6921.html" afterPath="$PROJECT_DIR$/node/6921.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/7051.html" afterPath="$PROJECT_DIR$/node/7051.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/741.html" afterPath="$PROJECT_DIR$/node/741.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/756.html" afterPath="$PROJECT_DIR$/node/756.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node/891.html" afterPath="$PROJECT_DIR$/node/891.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/schedule/fri.html" afterPath="$PROJECT_DIR$/schedule/fri.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/schedule/sat.html" afterPath="$PROJECT_DIR$/schedule/sat.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/schedule/sun.html" afterPath="$PROJECT_DIR$/schedule/sun.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2015/non-session/lunch.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2015/non-session/lunch.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2015/non-session/registration.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2015/non-session/registration.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2015/non-session/welcome.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2015/non-session/welcome.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/beginner-track/custom-content-migrations-drupal-8.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/beginner-track/custom-content-migrations-drupal-8.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/beginner-track/featured-session-keeping-drupal-community.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/beginner-track/featured-session-keeping-drupal-community.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/beginner-track/one-step-time-lessons-learned-drupal-newbie.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/beginner-track/one-step-time-lessons-learned-drupal-newbie.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/beginner-track/overcoming-imposter-syndrome.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/beginner-track/overcoming-imposter-syndrome.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/design-theming-front-end-development/accessibility-audit.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/design-theming-front-end-development/accessibility-audit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/design-theming-front-end-development/component-libraries.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/design-theming-front-end-development/component-libraries.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/design-theming-front-end-development/debugging-profiling.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/design-theming-front-end-development/debugging-profiling.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/design-theming-front-end-development/drupal-8-theming.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/design-theming-front-end-development/drupal-8-theming.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/design-theming-front-end-development/featured-session.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/design-theming-front-end-development/featured-session.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/debug-drupal-devel-xdebug-more.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/debug-drupal-devel-xdebug-more.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/developers-can-be-user-advocates.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/developers-can-be-user-advocates.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/docker-flash-introduction-drupal.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/docker-flash-introduction-drupal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/drupal-8-caching-developer’s-guide.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/drupal-8-caching-developer’s-guide.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/drupalers-guide-behavior-driven.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/drupalers-guide-behavior-driven.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/entities-all-your-business-logic.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/entities-all-your-business-logic.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/future-proof-your-dev-process.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/future-proof-your-dev-process.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/getting-started-docker-development.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/getting-started-docker-development.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/making-use-our-robot-overlords.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/making-use-our-robot-overlords.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/migrating-monsters.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/migrating-monsters.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/social-impact-seven-days.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/development-performance/social-impact-seven-days.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/non-session/closing-session-and-thank-yous.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/non-session/closing-session-and-thank-yous.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/non-session/code-sprint.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/non-session/code-sprint.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/non-session/lunch.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/non-session/lunch.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/non-session/⚡lightning-talks⚡.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/non-session/⚡lightning-talks⚡.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/project-management-and-consulting/automate-estimates.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/project-management-and-consulting/automate-estimates.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/project-management-and-consulting/building-cohesive-drupal.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/project-management-and-consulting/building-cohesive-drupal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/project-management-and-consulting/do-it-yourself-how-make.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/project-management-and-consulting/do-it-yourself-how-make.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/project-management-and-consulting/drupal-8-real-talk.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/project-management-and-consulting/drupal-8-real-talk.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/project-management-and-consulting/get-great-drupal-job.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/project-management-and-consulting/get-great-drupal-job.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/project-management-and-consulting/we-sold-drupal-world-now.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/project-management-and-consulting/we-sold-drupal-world-now.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/sessions-drupal-island/community-charging-solutions.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/sessions-drupal-island/community-charging-solutions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/sessions-drupal-island/securing-yourself-and-your-business.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/sessions-drupal-island/securing-yourself-and-your-business.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/site-building/anatomy-distro-–-building-custom.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/site-building/anatomy-distro-–-building-custom.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/site-building/featured-session-creating-landing-pages-and.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/site-building/featured-session-creating-landing-pages-and.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/site-building/mastering-drupal-8-views.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/site-building/mastering-drupal-8-views.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/site-building/multilingual-drupal-8-soup-nuts-guide.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/site-building/multilingual-drupal-8-soup-nuts-guide.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/site-building/security-drupal-8-tips-and-tricks.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/site-building/security-drupal-8-tips-and-tricks.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/site-building/selling-healthcare-insurance-plans-drupal.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/site-building/selling-healthcare-insurance-plans-drupal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/site-building/taxonomies-more-just-vocabulary.html" afterPath="$PROJECT_DIR$/sessions/approved/florida-drupalcamp-2017/site-building/taxonomies-more-just-vocabulary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sponsors.html" afterPath="$PROJECT_DIR$/sponsors.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sponsors/become-sponsor.html" afterPath="$PROJECT_DIR$/sponsors/become-sponsor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/training.html" afterPath="$PROJECT_DIR$/training.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/training/beginning-reactjs.html" afterPath="$PROJECT_DIR$/training/beginning-reactjs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/training/docker-development-drupal.html" afterPath="$PROJECT_DIR$/training/docker-development-drupal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/training/introduction-drupal-8-theming.html" afterPath="$PROJECT_DIR$/training/introduction-drupal-8-theming.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/training/introduction-drupal-8.html" afterPath="$PROJECT_DIR$/training/introduction-drupal-8.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/training/introduction-drupalvm.html" afterPath="$PROJECT_DIR$/training/introduction-drupalvm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trainings.html" afterPath="$PROJECT_DIR$/trainings.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/1.html" afterPath="$PROJECT_DIR$/user/1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/1011.html" afterPath="$PROJECT_DIR$/user/1011.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/1761.html" afterPath="$PROJECT_DIR$/user/1761.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/1986.html" afterPath="$PROJECT_DIR$/user/1986.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2086.html" afterPath="$PROJECT_DIR$/user/2086.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2236.html" afterPath="$PROJECT_DIR$/user/2236.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2451.html" afterPath="$PROJECT_DIR$/user/2451.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2456.html" afterPath="$PROJECT_DIR$/user/2456.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2461.html" afterPath="$PROJECT_DIR$/user/2461.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2466.html" afterPath="$PROJECT_DIR$/user/2466.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2481.html" afterPath="$PROJECT_DIR$/user/2481.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2496.html" afterPath="$PROJECT_DIR$/user/2496.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2501.html" afterPath="$PROJECT_DIR$/user/2501.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2506.html" afterPath="$PROJECT_DIR$/user/2506.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2511.html" afterPath="$PROJECT_DIR$/user/2511.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2521.html" afterPath="$PROJECT_DIR$/user/2521.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2526.html" afterPath="$PROJECT_DIR$/user/2526.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2531.html" afterPath="$PROJECT_DIR$/user/2531.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2581.html" afterPath="$PROJECT_DIR$/user/2581.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2586.html" afterPath="$PROJECT_DIR$/user/2586.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2591.html" afterPath="$PROJECT_DIR$/user/2591.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2636.html" afterPath="$PROJECT_DIR$/user/2636.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2651.html" afterPath="$PROJECT_DIR$/user/2651.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2696.html" afterPath="$PROJECT_DIR$/user/2696.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2741.html" afterPath="$PROJECT_DIR$/user/2741.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2746.html" afterPath="$PROJECT_DIR$/user/2746.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2751.html" afterPath="$PROJECT_DIR$/user/2751.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2756.html" afterPath="$PROJECT_DIR$/user/2756.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/2776.html" afterPath="$PROJECT_DIR$/user/2776.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/451.html" afterPath="$PROJECT_DIR$/user/451.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/476.html" afterPath="$PROJECT_DIR$/user/476.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/481.html" afterPath="$PROJECT_DIR$/user/481.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/506.html" afterPath="$PROJECT_DIR$/user/506.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/541.html" afterPath="$PROJECT_DIR$/user/541.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/631.html" afterPath="$PROJECT_DIR$/user/631.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/661.html" afterPath="$PROJECT_DIR$/user/661.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/681.html" afterPath="$PROJECT_DIR$/user/681.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user/746.html" afterPath="$PROJECT_DIR$/user/746.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/aczietlow.html" afterPath="$PROJECT_DIR$/users/aczietlow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/adminfldc.html" afterPath="$PROJECT_DIR$/users/adminfldc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/amandamarshall.html" afterPath="$PROJECT_DIR$/users/amandamarshall.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/bendygirlgmailcom.html" afterPath="$PROJECT_DIR$/users/bendygirlgmailcom.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/bhosmer.html" afterPath="$PROJECT_DIR$/users/bhosmer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/christian-crawford.html" afterPath="$PROJECT_DIR$/users/christian-crawford.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/cottser.html" afterPath="$PROJECT_DIR$/users/cottser.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/cybtachyon.html" afterPath="$PROJECT_DIR$/users/cybtachyon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/dangur.html" afterPath="$PROJECT_DIR$/users/dangur.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/danlinn.html" afterPath="$PROJECT_DIR$/users/danlinn.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/david.html" afterPath="$PROJECT_DIR$/users/david.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/dbt102.html" afterPath="$PROJECT_DIR$/users/dbt102.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/designfitsu.html" afterPath="$PROJECT_DIR$/users/designfitsu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/dhansen.html" afterPath="$PROJECT_DIR$/users/dhansen.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/drfirepants.html" afterPath="$PROJECT_DIR$/users/drfirepants.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/drupalninja.html" afterPath="$PROJECT_DIR$/users/drupalninja.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/gogates.html" afterPath="$PROJECT_DIR$/users/gogates.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/greggmarshall.html" afterPath="$PROJECT_DIR$/users/greggmarshall.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/helenasue.html" afterPath="$PROJECT_DIR$/users/helenasue.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/hotsaucedesign.html" afterPath="$PROJECT_DIR$/users/hotsaucedesign.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/jitesh-doshi.html" afterPath="$PROJECT_DIR$/users/jitesh-doshi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/jpstuddard.html" afterPath="$PROJECT_DIR$/users/jpstuddard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/ksalbrecht.html" afterPath="$PROJECT_DIR$/users/ksalbrecht.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/labboy0276.html" afterPath="$PROJECT_DIR$/users/labboy0276.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/lhridley.html" afterPath="$PROJECT_DIR$/users/lhridley.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/loco-gringo.html" afterPath="$PROJECT_DIR$/users/loco-gringo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/megansanicki.html" afterPath="$PROJECT_DIR$/users/megansanicki.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/mherchel.html" afterPath="$PROJECT_DIR$/users/mherchel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/nerdstein.html" afterPath="$PROJECT_DIR$/users/nerdstein.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/pirog.html" afterPath="$PROJECT_DIR$/users/pirog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/pixelite.html" afterPath="$PROJECT_DIR$/users/pixelite.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/rhuffstedtler.html" afterPath="$PROJECT_DIR$/users/rhuffstedtler.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/rvtraveller.html" afterPath="$PROJECT_DIR$/users/rvtraveller.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/swirt.html" afterPath="$PROJECT_DIR$/users/swirt.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/ultimike.html" afterPath="$PROJECT_DIR$/users/ultimike.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/websmithc.html" afterPath="$PROJECT_DIR$/users/websmithc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/will-jackson.html" afterPath="$PROJECT_DIR$/users/will-jackson.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/xpsusa.html" afterPath="$PROJECT_DIR$/users/xpsusa.html" />
+    </list>
+    <ignored path="2017 fldc archive.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="2017 fldc archive" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/about.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1007" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017 fldc archive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017 fldc archive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017 fldc archive" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017 fldc archive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017 fldc archive" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="442df296-de1f-4bcf-b75d-701feeec9e72" name="Default" comment="" />
+      <created>1516805788835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516805788835</updated>
+      <workItem from="1516805791962" duration="228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="228000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1007" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.157082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896176" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="51" column="78" selection-start-line="51" selection-start-column="78" selection-end-line="51" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
